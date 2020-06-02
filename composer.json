@@ -1,5 +1,5 @@
 {
-    "name": "francescomalatesta/laravel-circuit-breaker",
+    "name": "leachryan/laravel-circuit-breaker",
     "type": "library",
     "description": "A circuit breaker pattern implementation for the Laravel framework",
     "keywords": [
@@ -14,6 +14,11 @@
             "name": "Francesco Malatesta",
             "email": "hellofrancesco@gmail.com",
             "homepage": "https://github.com/francescomalatesta",
+            "role": "Developer"
+        },
+        {
+            "name": "Ryan Leach",
+            "email": "leachryan@hotmail.com",
             "role": "Developer"
         }
     ],
