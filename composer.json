@@ -1,5 +1,5 @@
 {
-    "name": "leachryan/laravel-circuit-breaker",
+    "name": "francescomalatesta/laravel-circuit-breaker",
     "type": "library",
     "description": "A circuit breaker pattern implementation for the Laravel framework",
     "keywords": [
@@ -56,5 +56,5 @@
     },
     "config": {
         "sort-packages": true
-    }
+    },
 }
